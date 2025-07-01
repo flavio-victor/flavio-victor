@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Flávio Victor 👋
 
-<!--
-**flavio-victor/flavio-victor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on code, design, and clean logic. I build things that are simple, fast, and elegant — both in functionality and form.
 
-Here are some ideas to get you started:
+## 🛠️ Tech I Work With
+- **Languages**: Python, HTML/CSS, JavaScript, C#, C++, Dart
+- **Frameworks**: .NET, Flutter
+- **Tools**: Visual Studio, VS Code, PyCharm, Unity, Git, GitHub, Figma, Canva
+- **Focus**: Minimalist UI, clean styling, strong logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- System design fundamentals
+- Advanced front-end architecture
+- Full-stack integrations
+
+## 📫 Connect With Me
+- Portfolio: *(coming soon)*
+- Email: [flavio-victor@outlook.com](mailto:flavio-victor@outlook.com)
+- LinkedIn: [linkedin.com/in/flávio-victor-4a175b372](https://www.linkedin.com/in/fl%C3%A1vio-victor-4a175b372)
+
+---
+
+> “Keep it simple :)”
