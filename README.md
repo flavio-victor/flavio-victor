@@ -1,6 +1,6 @@
 # Hi, I'm Flávio Victor 👋
 
-I'm a developer focused on code, design, and clean logic. I build things that are simple, fast, and elegant — both in functionality and form.
+I'm a full-stack developer focused on code, design, and clean logic. I build things that are simple, fast, and elegant — both in functionality and form.
 
 ## 🛠️ Tech I Work With
 - **Languages**: Python, HTML/CSS, JavaScript, C#, C++, Dart
