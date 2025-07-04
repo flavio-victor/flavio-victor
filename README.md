@@ -6,7 +6,7 @@ I'm a Full-Stack and Game Developer currently coursing Information systems Techn
 
 ## 🛠 Tech Stack
 
-**Language**
+**Language**  
 Python • JavaScript • Dart • C# • C++
 
 **Frameworks**  
