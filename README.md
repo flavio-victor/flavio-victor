@@ -15,7 +15,7 @@ Python • JavaScript • Dart • C# • C++
 **Tools**  
 VS Code • PyCharm • Git • GitHub • Unity • Figma • Arduino IDE • Blender
 
-**Others**
+**Others**  
 HTML • CSS
 
 ---
