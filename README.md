@@ -1,13 +1,12 @@
 # Hi, I'm Flávio Victor 👋
 
-I'm a Full-Stack and Game Developer currently studying Information Technician (IT).
-I really enjoy solving problems, create immersive and deep gaming experiences and learn constant. My current goal is to launch my first game on Steam.
+I'm a Full-Stack and Game Developer currently coursing Information systems Technician (IT). I enjoy solving problems, creating immersive gaming experiences and learn continuously. My current goal is to launch my first game on Steam.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
+**Language**
 Python • JavaScript • Dart • C# • C++
 
 **Frameworks**  
@@ -20,14 +19,14 @@ VS Code • PyCharm • Git • GitHub • Unity • Figma • Arduino IDE • B
 
 ## 📚 Currently Learning
 
-- HTML/CSS, JavaScript and SQL for website development 
+- HTML, CSS, JavaScript and MySQL for website development and upgrade my front-end skill
 - 3D modeling with Blender
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌐 Simple Portfolio Website — designed to showcase my skills, projects, and future updates.
+- 🌐 Portfolio Website — designed to showcase my skills, projects, and future updates.
 
 ---
 
@@ -39,4 +38,4 @@ VS Code • PyCharm • Git • GitHub • Unity • Figma • Arduino IDE • B
 
 ---
 
-> **FV:)** — _"Keep it simple :)"_
+> **FV** — _"Keep it simple :)"_
