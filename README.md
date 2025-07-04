@@ -1,6 +1,7 @@
 # Hi, I'm Flávio Victor 👋
 
-I'm a Full-Stack Developer and Minimalist Designer — passionate about code, design, and logical systems. I build solutions that are simple, fast, and elegant — both in functionality and form.
+I'm a Full-Stack and Game Developer currently studying Information Technician (IT).
+I really enjoy solving problems, create immersive and deep gaming experiences and learn constant. My current goal is to launch my first game on Steam.
 
 ---
 
@@ -13,15 +14,20 @@ Python • JavaScript • Dart • C# • C++
 .NET • Flutter
 
 **Tools**  
-VS Code • PyCharm • Git • GitHub • Unity • Figma
+VS Code • PyCharm • Git • GitHub • Unity • Figma • Arduino IDE • Blender
 
 ---
 
 ## 📚 Currently Learning
 
-- System design fundamentals  
-- Advanced front-end architecture  
-- Full-stack integrations
+- HTML/CSS, JavaScript and SQL for website development 
+- 3D modeling with Blender
+
+---
+
+## 🚀 Featured Projects
+
+- 🌐 Simple Portfolio Website — designed to showcase my skills, projects, and future updates.
 
 ---
 
@@ -33,5 +39,4 @@ VS Code • PyCharm • Git • GitHub • Unity • Figma
 
 ---
 
-> “Keeping it simple :)”  
-> — My approach to code and design
+> **FV:)** — _"Keep it simple :)"_
